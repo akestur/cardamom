@@ -10,7 +10,7 @@ Almost every recipe site embeds [schema.org Recipe](https://schema.org/Recipe) s
 
 1. Open `chrome://extensions` in Chrome.
 2. Turn on **Developer mode** (top-right toggle).
-3. Click **Load unpacked** and select this `cardamom` folder.
+3. Click **Load unpacked** and select this project folder.
 4. Pin the extension, open any recipe page, and click the icon.
 
 ## Use
