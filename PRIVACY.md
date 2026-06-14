@@ -25,4 +25,4 @@ The only network activity is your browser loading the recipe's own photo (from t
 
 ## Contact
 
-Questions about this policy can be directed to: akkestur@gmail.com
+Questions about this policy can be directed to: akhil@recipize.app
