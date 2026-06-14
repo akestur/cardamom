@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="toolbar">
+    <span class="brand">Recipe Card</span>
+    <div class="actions">
+      <button id="copyBtn" class="btn" title="Copy recipe text" disabled>Copy</button>
+      <button id="imgBtn" class="btn" title="Download as image" disabled>Save image</button>
+    </div>
+  </div>
+
+  <div id="status" class="status">Reading this page…</div>
+
+  <div id="cardWrap" class="card-wrap" hidden>
+    <article id="card" class="card">
+      <figure id="figure" class="figure" hidden>
+        <img id="photo" alt="" />
+      </figure>
+      <h1 id="title" class="title"></h1>
+      <p id="source" class="source"></p>
+
+      <section class="block">
+        <h2 class="heading">Ingredients</h2>
+        <ul id="ingredients" class="ingredients"></ul>
+      </section>
+
+      <section class="block">
+        <h2 class="heading">Instructions</h2>
+        <ol id="instructions" class="instructions"></ol>
+      </section>
+    </article>
+  </div>
+
+  <script src="html2canvas.min.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
