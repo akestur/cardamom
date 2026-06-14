@@ -1,6 +1,6 @@
-# Recipe Card
+# Cardamom — Just the Recipe
 
-A Chrome extension that turns any recipe page into a clean, minimal recipe card. Click the icon while on a recipe page and it pulls the dish title, photo, ingredients, instructions, and source into a single uncluttered card you can **copy** or **save as an image**.
+A Chrome extension that turns any recipe page into a clean, minimal recipe card. Click the icon while on a recipe page and Cardamom pulls the dish title, photo, ingredients, instructions, and source into a single uncluttered card you can **copy** or **save as an image**.
 
 ## How it works
 
@@ -10,7 +10,7 @@ Almost every recipe site embeds [schema.org Recipe](https://schema.org/Recipe) s
 
 1. Open `chrome://extensions` in Chrome.
 2. Turn on **Developer mode** (top-right toggle).
-3. Click **Load unpacked** and select this `recipe_cards` folder.
+3. Click **Load unpacked** and select this `cardamom` folder.
 4. Pin the extension, open any recipe page, and click the icon.
 
 ## Use

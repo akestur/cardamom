@@ -5,7 +5,7 @@ Copy/paste these into the Web Store Developer Dashboard when you create the list
 ---
 
 ## Name (max 75 chars)
-Recipe Card — Clean Recipe Cards
+Cardamom — Just the Recipe
 
 ## Summary (max 132 chars)
 Turn any recipe page into a clean, minimal card. One click for the title, photo, ingredients, and steps — copy it or save as an image.
@@ -20,9 +20,9 @@ English
 
 ## Description (detailed)
 
-Recipe sites are buried under life stories, ads, and pop-ups. Recipe Card cuts through all of it.
+Recipe sites are buried under life stories, ads, and pop-ups. Cardamom cuts through all of it.
 
-Click the icon on any recipe page and Recipe Card instantly builds a clean, minimal card with everything you actually need:
+Click the icon on any recipe page and Cardamom instantly builds a clean, minimal card with everything you actually need:
 
 • Dish title
 • Photo
@@ -35,9 +35,9 @@ Then do what you want with it:
 • Copy — grab the whole recipe as clean, plain text for your notes, a message, or a doc.
 • Save image — download the card as a crisp PNG to keep or share.
 
-How it works: Recipe Card reads the recipe data that sites already publish for search engines (schema.org structured data), so the result is clean and accurate — not a messy scrape. If a page has no recipe, it simply tells you.
+How it works: Cardamom reads the recipe data that sites already publish for search engines (schema.org structured data), so the result is clean and accurate — not a messy scrape. If a page has no recipe, it simply tells you.
 
-Privacy first: everything happens in your browser. Recipe Card reads a page only when you click the icon, sends nothing to any server, and has no tracking, ads, or accounts.
+Privacy first: everything happens in your browser. Cardamom reads a page only when you click the icon, sends nothing to any server, and has no tracking, ads, or accounts.
 
 ---
 
@@ -64,4 +64,4 @@ Privacy first: everything happens in your browser. Recipe Card reads a page only
 ## Privacy policy URL
 
 The store requires a publicly hosted privacy policy URL. The easiest option: push this repo to GitHub (public) and use the raw/rendered link to PRIVACY.md, e.g.
-https://github.com/<your-username>/recipe-card/blob/main/PRIVACY.md
+https://github.com/<your-username>/cardamom/blob/main/PRIVACY.md

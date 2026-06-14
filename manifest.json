@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Recipe Card",
+  "name": "Cardamom — Just the Recipe",
   "version": "1.0.0",
   "description": "Turn any recipe page into a clean, minimal recipe card you can copy or save as an image.",
   "action": {

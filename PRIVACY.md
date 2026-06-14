@@ -1,12 +1,12 @@
-# Privacy Policy — Recipe Card
+# Privacy Policy — Cardamom
 
 _Last updated: June 13, 2026_
 
-Recipe Card is designed to do its work entirely inside your browser. It does not collect, store, transmit, or sell any personal information.
+Cardamom is designed to do its work entirely inside your browser. It does not collect, store, transmit, or sell any personal information.
 
 ## What the extension accesses
 
-When you click the Recipe Card icon on a web page, the extension reads the content of **that page only**, at that moment, to find recipe information (the dish title, photo, ingredients, instructions, and source). This uses Chrome's `activeTab` permission, which grants access to a page only in response to your click.
+When you click the Cardamom icon on a web page, the extension reads the content of **that page only**, at that moment, to find recipe information (the dish title, photo, ingredients, instructions, and source). This uses Chrome's `activeTab` permission, which grants access to a page only in response to your click.
 
 ## What the extension does with it
 
